@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Sahneler/son.unity
+    guid: b36e287506d59244c8cafc3e53c9259d
+  - enabled: 1
+    path: Assets/Sahneler/level2.unity
+    guid: 45e8db13bf6a1394fbe6051cb79fa4c7

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Küp Oyunu", "Küp Oyunu.csproj", "{67C76293-5BAD-0166-62AE-26CBA5309199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Küp Oyunu.Editor", "Küp Oyunu.Editor.csproj", "{1CA54938-3DAF-61A8-04C2-3471E8591F8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67C76293-5BAD-0166-62AE-26CBA5309199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C76293-5BAD-0166-62AE-26CBA5309199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C76293-5BAD-0166-62AE-26CBA5309199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C76293-5BAD-0166-62AE-26CBA5309199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CA54938-3DAF-61A8-04C2-3471E8591F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA54938-3DAF-61A8-04C2-3471E8591F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA54938-3DAF-61A8-04C2-3471E8591F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA54938-3DAF-61A8-04C2-3471E8591F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
